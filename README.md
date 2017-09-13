@@ -1,2 +1,2 @@
 # Lattice
-fgfg
+Python implenetation of number theory algorthms
