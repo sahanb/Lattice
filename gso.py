@@ -1,4 +1,4 @@
-︠ed09673d-85ad-48b8-a701-3b90fe4132a1s︠
+
 from math import *
 import numpy as np
 
