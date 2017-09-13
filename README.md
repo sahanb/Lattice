@@ -1,2 +1,2 @@
 # Lattice
-Python implenetation of number theory algorthms
+Python implementation of number theory algorthms
