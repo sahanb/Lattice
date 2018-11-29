@@ -1,9 +1,6 @@
 
 from math import *
 
-#def norm1(b):
-#    return sqrt(b[0]**2+b[1]**2)
-    
 # Calculating norm
 def norm(b):
     x=0
@@ -12,10 +9,6 @@ def norm(b):
 
     return sqrt(x)
 
-
-#def inproduct1(c,d):
-
- #   return c[0]*d[0]+c[1]*d[1]
 
 
 # inner product function
